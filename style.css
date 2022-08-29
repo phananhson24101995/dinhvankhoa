@@ -1,0 +1,79 @@
+.main {
+
+}
+
+.container {
+
+}
+
+.header {
+    height: 60px;
+    background-color: red;
+    display: flex;
+}
+
+.logo {
+    border: 1px solid #333;
+    width: 20%;
+    background-color: black;
+    height: inherit;
+}
+
+.right-header {
+    border: 1px solid #333;
+    width: 80%;
+    background-color: aqua;
+    height: inherit;
+}
+
+.content {
+    display: flex;
+height: 400px;
+background-color: blue;
+}
+
+.navbar {
+    border: 1px solid #333;
+    width: 20%;
+    background-color: black;
+    height: inherit;
+}
+
+.content-right {
+    border: 1px solid #333;
+    width: 80%;
+    background-color: aqua;
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+}
+
+.ngaythang {
+    border: 1px solid #333;
+    width: 100%;
+    height: 100px;
+}
+
+.nam {
+    border: 1px solid #333;
+    width: 100%;
+    height: 100px;
+}
+
+.table-content {
+    border: 1px solid #333;
+
+}
+
+.table-content table {
+    width: 100%;
+}
+
+.table-content table, tr, td {
+    border: 1px solid;
+}
+
+.footer {
+height: 200px;
+background-color: yellow;
+}
